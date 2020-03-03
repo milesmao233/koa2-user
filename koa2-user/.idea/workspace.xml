@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fd801ac0-254d-4cd2-9ff2-9ce326eb834e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XuzbRa9p8qglnbR0WNe4M4Vqku" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="10.13.0" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs.jest.jest_package" value="$PROJECT_DIR$/node_modules/jest" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$USER_HOME$/.nvm/versions/node/v10.13.0/lib/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/user" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="sync.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/db/sync.js" working-dir="$PROJECT_DIR$/src/db">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.sync.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd801ac0-254d-4cd2-9ff2-9ce326eb834e" name="Default Changelist" comment="" />
+      <created>1581910838531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581910838531</updated>
+      <workItem from="1581910840761" duration="13648000" />
+      <workItem from="1582032818117" duration="4408000" />
+      <workItem from="1582077551932" duration="7635000" />
+      <workItem from="1582104393056" duration="4491000" />
+      <workItem from="1582185743793" duration="585000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1419" y="207" key="#User_首页注册登录测试.user_register.user_controller.method_register" timestamp="1581916054937">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state x="-1419" y="207" key="#User_首页注册登录测试.user_register.user_controller.method_register/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581916054937" />
+    <state width="2225" height="492" key="GridCell.Tab.0.bottom" timestamp="1581945574092">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state width="2225" height="492" key="GridCell.Tab.0.bottom/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581945574092" />
+    <state width="2225" height="492" key="GridCell.Tab.0.center" timestamp="1581945574091">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state width="2225" height="492" key="GridCell.Tab.0.center/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581945574091" />
+    <state width="2225" height="492" key="GridCell.Tab.0.left" timestamp="1581945574090">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state width="2225" height="492" key="GridCell.Tab.0.left/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581945574090" />
+    <state width="2225" height="492" key="GridCell.Tab.0.right" timestamp="1581945574091">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state width="2225" height="492" key="GridCell.Tab.0.right/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581945574091" />
+    <state x="-1622" y="170" key="SettingsEditor" timestamp="1581916512062">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state x="-1622" y="170" key="SettingsEditor/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581916512062" />
+    <state x="-1642" y="288" width="683" height="486" key="find.popup" timestamp="1582033079962">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state x="-1642" y="288" width="683" height="486" key="find.popup/0.23.1440.877/-3008.-303.3008.1669@-3008.-303.3008.1669" timestamp="1582033079962" />
+    <state x="-1458" y="85" width="670" height="676" key="search.everywhere.popup" timestamp="1581914219887">
+      <screen x="-3008" y="-303" width="3008" height="1669" />
+    </state>
+    <state x="-1458" y="85" width="670" height="676" key="search.everywhere.popup/-3008.-303.3008.1669/0.23.1440.877@-3008.-303.3008.1669" timestamp="1581914219887" />
+  </component>
+</project>
